@@ -46,6 +46,12 @@ The analysis is performed using **SQL(pgAdmin4), Python, and Power BI**, making 
 * Gender-based and age group -based trends highlight targeted marketing opportunities
 
 ---
+## Screenshots
+<img width="1317" height="725" alt="image" src="https://github.com/user-attachments/assets/0e2d5b82-709a-40de-8d79-61dd4f8e4fcf" />
+
+<img width="1129" height="616" alt="image" src="https://github.com/user-attachments/assets/d5068442-4991-499b-b9dc-35f94f053b41" />
+
+--
 
 ## 🚀 How to Use This Project
 
